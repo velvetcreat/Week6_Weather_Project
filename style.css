@@ -27,7 +27,7 @@ body {
     transition: all 200ms ease-in-out;
   }
   .currentButton:hover {
-    color: ##bfbfbf;
+    color: #bfbfbf;
     display: block;
     margin: 0 auto;
     border-radius: 30px;
